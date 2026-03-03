@@ -126,7 +126,7 @@ Vector Databases • Docker • SQL
 ## Connect With Me
 
 LinkedIn
-https://linkedin.com/in/YOURPROFILE
+[Prashant Singh - AI](https://www.linkedin.com/in/prashantsingh-ai/)
 
 ---
 
