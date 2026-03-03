@@ -147,6 +147,16 @@ Vector Databases • Docker • SQL
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prashantsingh5&theme=github)
 ---
 
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashantsingh5&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantsingh5&layout=compact)
+
+## Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prashantsingh5)
+
 ## 🔬 Currently Exploring
 
 • advanced multi-agent AI architectures
