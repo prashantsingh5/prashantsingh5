@@ -130,15 +130,15 @@ Vector Databases • Docker • SQL
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prashantsingh5&show_icons=true&theme=default" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=prashantsingh5&show_icons=true&theme=default" height="170"/>
 
-<img src="https://streak-stats.demolab.com?user=prashantsingh5&theme=default" height="170">
+<img src="https://streak-stats.demolab.com?user=prashantsingh5&theme=default" height="170"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantsingh5&layout=compact&theme=default" height="150">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantsingh5&layout=compact&theme=default" height="150"/>
 
 </p>
 
