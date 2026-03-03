@@ -1,16 +1,127 @@
-## Hi there 👋
+# Hi, I'm Prashant Singh 👋
 
-<!--
-**prashantsingh5/prashantsingh5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning & Generative AI Engineer building intelligent AI systems.
 
-Here are some ideas to get you started:
+I focus on designing and developing production-ready applications using **Large Language Models, Retrieval-Augmented Generation (RAG), AI Agents, and Computer Vision pipelines.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# AI Systems I Build
+
+• LLM-powered applications and AI assistants  
+• Retrieval-Augmented Generation (RAG) systems  
+• Multi-agent AI architectures  
+• Computer vision pipelines and image processing  
+• Generative AI systems for image generation and transformation  
+• AI APIs and scalable backend systems
+
+My focus is turning **machine learning experiments into real AI systems.**
+
+---
+
+# Featured Projects
+
+### RAG LLM Chatbot
+A Retrieval-Augmented Generation system that allows LLMs to answer questions using external knowledge sources.
+
+Tech  
+Python • FastAPI • LangChain • Vector Databases • LLM APIs
+
+---
+
+### Multi-Agent AI Assistant
+An AI assistant designed using a **multi-agent architecture** where specialized agents collaborate to complete complex tasks.
+
+Agents include:
+
+• RAG agent for knowledge retrieval  
+• code agent for programming assistance  
+• task manager agent for workflow coordination  
+• email and calendar automation agents  
+• data analysis agent for structured insights  
+
+Tech  
+Python • FastAPI • LangChain • LLMs • Vector Databases
+
+---
+
+### AI Object Removal (Image Inpainting)
+Computer vision system that removes unwanted objects from images using deep learning-based inpainting techniques.
+
+Pipeline
+
+• image preprocessing  
+• mask generation  
+• image reconstruction  
+
+Tech  
+Python • OpenCV • Deep Learning
+
+---
+
+### Sketch-to-Image Generation
+Implemented a Pix2Pix GAN model to convert sketches into realistic images.
+
+Pipeline
+
+• paired dataset preparation  
+• conditional GAN training  
+• image generation
+
+Tech  
+PyTorch • GANs • Computer Vision
+
+---
+
+### Text-to-Image Generation
+Generative AI system that converts text prompts into images using diffusion models.
+
+Tech  
+Python • Stable Diffusion • Gradio
+
+---
+
+### Anime Recommendation System
+Recommendation engine that suggests anime based on user preferences using content-based filtering.
+
+Tech  
+Python • APIs • Recommender Systems
+
+---
+
+# Tech Stack
+
+Languages  
+Python • SQL
+
+Machine Learning  
+Machine Learning • Deep Learning • NLP • Computer Vision
+
+Generative AI  
+LLMs • RAG • AI Agents • Diffusion Models • GANs
+
+Frameworks  
+FastAPI • LangChain • PyTorch • Scikit-learn
+
+Infrastructure  
+Vector Databases • Docker • SQL
+
+---
+
+# Currently Exploring
+
+• advanced multi-agent AI architectures  
+• scalable RAG systems  
+• AI video restoration using computer vision  
+• production deployment of AI systems
+
+---
+
+# Connect With Me
+
+LinkedIn  
+https://linkedin.com/in/YOURPROFILE
+
+---
+
+Building AI systems that combine **machine learning, generative models, and scalable architectures.**
