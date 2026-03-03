@@ -128,12 +128,23 @@ Vector Databases • Docker • SQL
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashantsingh5\&show_icons=true\&theme=tokyonight)
+<p align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prashantsingh5\&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=prashantsingh5&show_icons=true&theme=default" height="170">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantsingh5\&layout=compact\&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=prashantsingh5&theme=default" height="170">
 
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantsingh5&layout=compact&theme=default" height="150">
+
+</p>
+
+## Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prashantsingh5&theme=github)
 ---
 
 ## 🔬 Currently Exploring
