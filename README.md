@@ -38,7 +38,7 @@ FastAPI • Flask • REST APIs • WebSockets
 MySQL • MongoDB • Redis
 
 ### Cloud & DevOps
-AWS • Azure • Docker • CI/CD
+Docker
 
 ---
 
