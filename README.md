@@ -88,6 +88,10 @@ Features:
 
 ---
 
+## 🧰 Languages and Tools
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,aws,mysql,mongodb,git"/>
+
 
 ## 🔥 Contribution Streak
 
