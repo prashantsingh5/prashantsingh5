@@ -1,133 +1,129 @@
-# Hi, I'm Prashant Singh 👋
+<h1 align="center">Hi 👋, I'm Prashant Singh</h1>
+<h3 align="center">AI / ML Engineer | Generative AI | Computer Vision | LLM Systems</h3>
 
-Machine Learning & Generative AI Engineer building intelligent AI systems.
-
-I design and develop **production-oriented AI solutions** using Large Language Models, Retrieval-Augmented Generation (RAG), AI Agents, and Computer Vision pipelines.
-
-My focus is transforming **machine learning experiments into real AI systems.**
-
----
-
-## AI Systems I Build
-
-• LLM-powered applications and AI assistants
-• Retrieval-Augmented Generation (RAG) systems
-• Multi-agent AI architectures
-• Computer vision pipelines and image processing systems
-• Generative AI systems for image generation and transformation
-• Scalable AI APIs and backend services
+<p align="center">
+Building production-ready AI systems using Python, FastAPI, PyTorch, and modern LLM frameworks.
+</p>
 
 ---
 
-## Featured Projects
+## 🚀 About Me
 
-### RAG-based LLM Chatbot
-
-A Retrieval-Augmented Generation system enabling LLMs to answer questions using external knowledge sources.
-
-Tech:
-Python • FastAPI • LangChain • Vector Databases • LLM APIs
-
----
-
-### Multi-Agent AI Assistant
-
-An AI assistant designed using a multi-agent architecture where specialized agents collaborate to solve complex tasks.
-
-Agents include:
-
-• RAG agent for knowledge retrieval
-• code agent for programming assistance
-• task manager agent for workflow coordination
-• data analysis agent for structured insights
-• web search and file management agents
-
-Tech:
-Python • FastAPI • LangChain • LLMs • Vector Databases
+- 🔬 AI / ML Engineer focused on **Generative AI, Computer Vision, and LLM applications**
+- 🤖 Building **RAG chatbots, diffusion models, and recommendation systems**
+- 🧠 Experienced with **YOLOv8, Stable Diffusion, LangChain, and vector search**
+- ⚙️ Developing scalable ML systems with **FastAPI, Docker, and cloud platforms**
+- 📊 Passionate about solving real-world problems with AI
 
 ---
 
-### AI Object Removal (Image Inpainting)
+## 🧠 Tech Stack
 
-Computer vision system that removes unwanted objects from images using deep learning-based inpainting techniques.
+### Programming
+Python • C
 
-Pipeline:
+### Machine Learning
+PyTorch • Scikit-learn • TensorFlow
 
-• image preprocessing
-• mask generation
-• deep learning reconstruction
+### Generative AI
+Stable Diffusion • GANs • Diffusion Models
 
-Tech:
-Python • OpenCV • Deep Learning
+### LLM & NLP
+LangChain • RAG • Embeddings • Vector Search
 
----
+### Backend
+FastAPI • Flask • REST APIs • WebSockets
 
-### Sketch-to-Image Generation
+### Databases
+MySQL • MongoDB • Redis
 
-Implemented a Pix2Pix GAN model to convert sketches into realistic images.
-
-Pipeline:
-
-• paired dataset preparation
-• conditional GAN training
-• image synthesis
-
-Tech:
-PyTorch • GANs • Computer Vision
+### Cloud & DevOps
+AWS • Azure • Docker • CI/CD
 
 ---
 
-### Text-to-Image Generation
+## ⭐ Featured Projects
 
-Built a generative AI system that converts text prompts into images using diffusion models.
+### 🤖 RAG Chatbot for PDFs & Websites
+AI chatbot capable of querying documents and websites using retrieval augmented generation.
 
-Tech:
-Python • Stable Diffusion • Gradio
+**Tech:** Python, FastAPI, LangChain, FAISS
 
----
-
-### Anime Recommendation System
-
-Recommendation engine suggesting anime based on user preferences using content-based filtering and API integration.
-
-Tech:
-Python • APIs • Recommender Systems
+Features:
+- Multi-document querying
+- Semantic search
+- Real-time API endpoints
+- Vector database retrieval
 
 ---
 
-## Tech Stack
+### 🎨 Diffusion Model Image Generator
+Prompt-based image synthesis system using diffusion models.
 
-Languages
-Python • SQL
-
-Machine Learning
-Machine Learning • Deep Learning • NLP • Computer Vision
-
-Generative AI
-LLMs • RAG • AI Agents • Diffusion Models • GANs
-
-Frameworks
-FastAPI • LangChain • PyTorch • Scikit-learn
-
-Infrastructure
-Vector Databases • Docker • SQL
+Features:
+- Text-to-image generation
+- Image-to-image transformation
+- Optimized sampling pipeline
+- Improved image fidelity
 
 ---
 
-## Currently Exploring
+### 🏠 AI Interior Design System
+AI system that transforms interior images using **YOLO detection and Stable Diffusion inpainting**.
 
-• advanced multi-agent AI architectures
-• scalable RAG pipelines
-• AI video restoration using computer vision
-• production deployment of AI systems
-
----
-
-## Connect With Me
-
-LinkedIn
-[Prashant Singh - AI](https://www.linkedin.com/in/prashantsingh-ai/)
+Features:
+- Detect furniture and objects
+- Modify layouts and textures
+- Generate realistic interior designs
 
 ---
 
-Building AI systems that combine machine learning, generative models, and scalable architectures.
+### 📺 Anime Recommendation System
+Machine learning recommendation system suggesting anime based on user preferences.
+
+Features:
+- Content-based filtering
+- Similarity learning
+- Feature vector ranking
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=prashantsingh5&show_icons=true&theme=radical" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantsingh5&layout=compact&theme=radical" />
+
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantsingh5&theme=radical" />
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+Portfolio:  
+https://mlforgex.in
+
+GitHub:  
+https://github.com/prashantsingh5
+
+Kaggle:  
+https://www.kaggle.com/prashantsingh001
+
+Email:  
+prashantsingha96@gmail.com
+
+---
+
+⭐ If you like my work, consider starring the repositories!
