@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prashant Singh</h1>
 <h3 align="center">AI / ML Engineer | Generative AI | Computer Vision | LLM Systems</h3>
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Generative+AI+Developer;Computer+Vision+Engineer;LLM+Application+Developer&center=true&width=500&height=50"></h3
-
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Generative+AI+Developer;Computer+Vision+Engineer;LLM+Application+Developer&center=true&width=500&height=50"></h3>
 <p align="center">
 Building production-ready AI systems using Python, FastAPI, PyTorch and modern LLM frameworks.
 </p>
