@@ -88,17 +88,6 @@ Features:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=prashantsingh5&show_icons=true&theme=radical" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantsingh5&layout=compact&theme=radical" />
-
-</p>
-
----
 
 ## 🔥 Contribution Streak
 
@@ -112,16 +101,19 @@ Features:
 
 ## 🌐 Connect With Me
 
-Portfolio:  
+Portfolio  
 https://mlforgex.in
 
-GitHub:  
+LinkedIn  
+https://www.linkedin.com/in/YOUR-LINKEDIN
+
+GitHub  
 https://github.com/prashantsingh5
 
-Kaggle:  
+Kaggle  
 https://www.kaggle.com/prashantsingh001
 
-Email:  
+Email  
 prashantsingha96@gmail.com
 
 ---
