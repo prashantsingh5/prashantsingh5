@@ -83,7 +83,6 @@ Features:
 
 ---
 
----
 
 ## 🔬 Currently Working On
 
@@ -115,6 +114,8 @@ Key capabilities:
 
 Tech Stack  
 Python • Computer Vision • Deep Learning • Video Processing
+
+---
 
 ## 🔥 Contribution Streak
 
