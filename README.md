@@ -91,6 +91,16 @@ Features:
 
 ---
 
+## 📈 GitHub Activity Graph
+
+<p align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prashantsingh5&theme=github)
+
+</p>
+
+----
+
 ## 🌐 Connect With Me
 
 Portfolio  
