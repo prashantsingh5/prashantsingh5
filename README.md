@@ -47,16 +47,21 @@ Features:
 
 ---
 
-### 🤖 RAG Chatbot for PDFs & Websites
-AI chatbot capable of querying documents and websites using retrieval augmented generation.
+### 🤖 Multimodal RAG AI Assistant
+AI assistant capable of answering questions using **documents, websites, and external knowledge sources** through a Retrieval-Augmented Generation (RAG) pipeline.
 
-**Tech:** Python, FastAPI, LangChain, FAISS  
+The system retrieves relevant context using vector search and generates grounded responses using LLM reasoning.
 
-Features:
-- Multi-document querying
-- Semantic search
-- Real-time API endpoints
-- Vector database retrieval
+**Tech:** Python • FastAPI • LangChain • FAISS • LLM APIs  
+
+🔗 [Click to check](https://github.com/prashantsingh5/multimodal-rag-ai-assistant)
+
+**Features**
+- Multi-document and knowledge-based querying  
+- Semantic search using vector embeddings  
+- Retrieval-augmented response generation  
+- FastAPI backend for real-time interaction  
+- Modular pipeline for retrieval, reasoning, and response processing  
 
 ---
 
