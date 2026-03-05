@@ -144,7 +144,7 @@ GitHub
 https://github.com/prashantsingh5  
 
 LinkedIn  
-https://www.linkedin.com/in/YOUR-LINKEDIN  
+www.linkedin.com/in/prashantsingh-ai
 
 Kaggle  
 https://www.kaggle.com/prashantsingh001  
