@@ -38,7 +38,7 @@ AI system that transforms interior images using **YOLO detection and Stable Diff
 
 **Tech:** Python, YOLOv8, Stable Diffusion, Computer Vision  
 
-🔗 https://github.com/prashantsingh5
+🔗 [Click to check](https://github.com/prashantsingh5/ai-interior-design)
 
 Features:
 - Detect furniture and room objects
