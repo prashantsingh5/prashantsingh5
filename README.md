@@ -76,24 +76,41 @@ The system retrieves relevant context using vector search and generates grounded
 
 ---
 
-### 🎨 Diffusion Model Image Generator
-Prompt-based image synthesis system using diffusion models.
+### 🎨 PromptVision Diffusion
+Generative AI system for **prompt-driven image synthesis** using diffusion models.
 
-Features:
-- Text-to-image generation
-- Image-to-image transformation
-- Optimized sampling pipeline
-- Improved image fidelity
+The project implements a diffusion-based pipeline capable of generating high-quality images from natural language prompts while supporting image-to-image transformations.
+
+**Tech:** Python • PyTorch • Diffusion Models • Generative AI  
+
+🔗 [Click to check](https://github.com/prashantsingh5/PromptVision-Diffusion)
+
+**Features**
+
+- Text-to-image generation using diffusion models  
+- Image-to-image transformation pipeline  
+- Iterative denoising and sampling optimization  
+- Improved image fidelity and prompt alignment  
+- Modular architecture for generative AI experimentation
 
 ---
 
 ### 📺 Anime Recommendation System
-Machine learning recommendation engine suggesting anime based on user preferences.
+Machine learning recommendation engine designed to suggest anime based on user preferences and content similarity.
 
-Features:
-- Content-based filtering
-- Similarity learning
-- Feature vector ranking
+The system analyzes anime features and computes similarity scores to generate personalized recommendations.
+
+**Tech:** Python • Machine Learning • Scikit-learn • Recommendation Systems  
+
+🔗 [Click to check](https://github.com/prashantsingh5/Anime_Recommendation_AI)
+
+**Features**
+
+- Content-based filtering using feature similarity  
+- Vectorized representation of anime attributes  
+- Similarity scoring for recommendation ranking  
+- Efficient recommendation generation pipeline  
+- Scalable architecture for expanding recommendation datasets
 
 ---
 
