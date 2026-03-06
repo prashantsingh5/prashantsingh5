@@ -21,6 +21,17 @@ Building production-ready AI systems using Python, FastAPI, PyTorch and modern L
 
 ---
 
+## 💼 Professional Bio
+
+AI / ML Engineer specializing in **Generative AI, Computer Vision, and LLM-based intelligent systems**.  
+I build **production-ready AI applications** including Retrieval-Augmented Generation (RAG) systems, diffusion-based image generation pipelines, recommendation engines, and multi-agent AI assistants.
+
+My work focuses on designing **scalable AI architectures** using modern frameworks such as **FastAPI, PyTorch, LangChain, and vector databases**, enabling real-world AI solutions for automation, analytics, and creative applications.
+
+I am also available for **freelance AI development projects**, helping businesses integrate AI capabilities into their products and workflows.
+
+---
+
 ## 🧰 Languages and Tools
 
 <p align="left">
@@ -86,6 +97,21 @@ Features:
 
 ---
 
+## 💡 AI Services
+
+I provide freelance AI development services including:
+
+• Retrieval-Augmented Generation (RAG) systems  
+• LLM-powered chatbots and AI assistants  
+• Computer vision applications  
+• Generative AI pipelines (Diffusion / Image generation)  
+• Recommendation systems  
+• Custom machine learning model development  
+• AI API development with FastAPI  
+
+If you're interested in working together, feel free to reach out through Upwork or LinkedIn.
+
+---
 
 ## 🔬 Currently Working On
 
