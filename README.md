@@ -194,9 +194,6 @@ https://mlforgex.in
 Upwork  
 https://www.upwork.com/freelancers/~01e188e8b94ae7b04f  
 
-Upwork 
-https://www.upwork.com/freelancers/~01e188e8b94ae7b04f
-
 GitHub  
 https://github.com/prashantsingh5  
 
