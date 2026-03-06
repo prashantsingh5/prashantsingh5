@@ -185,14 +185,17 @@ Python • Computer Vision • Deep Learning • Video Processing
 
 ## 🌐 Connect With Me
 
+LinkedIn  
+www.linkedin.com/in/prashantsingh-ai
+
 Portfolio  
 https://mlforgex.in  
 
+Upwork
+https://www.upwork.com/freelancers/~01e188e8b94ae7b04f
+
 GitHub  
 https://github.com/prashantsingh5  
-
-LinkedIn  
-www.linkedin.com/in/prashantsingh-ai
 
 Kaggle  
 https://www.kaggle.com/prashantsingh001  
